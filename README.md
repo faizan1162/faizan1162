@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Faizan Ali Ansari
 
-Senior Fullstack Developer focused on high-performance cloud architecture, enterprise-grade system design, and scalable SaaS models. I specialize in building robust backend services, dynamic web applications, and integrating intelligent automation.
+Senior Fullstack Developer & Tech Lead focused on high-performance cloud architecture, enterprise-grade system design, and scalable SaaS models. I specialize in building robust backend services, dynamic web applications, and integrating intelligent automation.
 
 ---
 
